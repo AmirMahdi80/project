@@ -1,0 +1,16 @@
+C:\Users\Amir Mahdi\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\Amir Mahdi\source\repos\project\project\bin\Debug\project.exe
+C:\Users\Amir Mahdi\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\Amir Mahdi\source\repos\project\project\bin\Debug\project.xml
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.vbprojAssemblyReference.cache
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\MainWindow.g.vb
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\Application.g.vb
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project_MarkupCompile.cache
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project_MarkupCompile.lref
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\MainWindow.baml
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.g.resources
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.Resources.resources
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.exe
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.xml
+C:\Users\Amir Mahdi\source\repos\project\project\obj\Debug\project.pdb
